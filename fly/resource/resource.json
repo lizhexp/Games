@@ -1,0 +1,24 @@
+{
+"resources":
+	[
+		{"name":"bgImage","type":"image","url":"assets/startbg.png"},
+		{"name":"startBtn","type":"image","url":"assets/startBtn.png"},
+        {"name":"followBtn","type":"image","url":"assets/followBtn.png"},
+        {"name":"replayBtn","type":"image","url":"assets/replayBtn.png"},
+        {"name":"shareBtn","type":"image","url":"assets/shareBtn.png"},
+        {"name":"scoreImage","type":"image","url":"assets/scorebg.png"},
+        {"name":"titleImage","type":"image","url":"assets/titlebg.png"},
+        {"name":"logoImage","type":"image","url":"assets/logobg.png"},
+        {"name":"shitImage","type":"image","url":"assets/shit.png"},
+        {"name":"tlImage","type":"image","url":"assets/timeline.png"},
+        {"name":"tlbgImage","type":"image","url":"assets/timelinebg.png"},
+        {"name":"fly_png","type":"image","url":"assets/fly.png"},
+        {"name":"fly_json","type":"json","url":"assets/fly.json"}
+	],
+
+"groups":
+	[
+        {"name":"preload","keys":"bgImage,startBtn,followBtn,replayBtn,shareBtn,scoreImage,titleImage,logoImage,shitImage,tlImage,tlbgImage"},
+        {"name":"fly","keys":"fly_png,fly_json"}
+	]
+}

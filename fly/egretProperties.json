@@ -1,0 +1,11 @@
+{
+	"document_class": "GameApp",
+	"native": {
+		"path_ignore": [
+			"libs"
+		],
+		"support_path": [
+			"/Users/lizhe/Develop/fly_ios/Resources"
+		]
+	}
+}
