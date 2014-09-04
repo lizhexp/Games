@@ -138,7 +138,6 @@ var AvoidShit;
             shit.y = -shit.height - Math.random() * 300;
             this.addChildAt(shit, this.numChildren - 1);
             this.shits.push(shit);
-            //            console.log("大便个数："+this.shits.length);
         };
 
         /**游戏画面更新*/
